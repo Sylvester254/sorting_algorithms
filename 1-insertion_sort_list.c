@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * insertion_sort_list - sorts a doubly linked list of integers into ascending order
+ * insertion_sort_list - sorts a doubly linked list of integers(asc)
  *
  * @list: doubly linked list
  */
